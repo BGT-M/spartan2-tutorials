@@ -1,6 +1,6 @@
 ## Live-tutorials: Table of Contents
 
-All contents are collected in another repository [spartan-tutorials](https://github.com/BGT-M/spartan2-tutorials), you can clone that repository to get all the notebooks and example data to run on your own.
+The source codes of spartan2 are in [spartan2](https://github.com/BGT-M/spartan2), you need to install that packages before running those live tutorials.
 
 **Part 1: Basic**
 * [Quick start](https://github.com/BGT-M/spartan2-tutorials/blob/master/quick_start.ipynb)
