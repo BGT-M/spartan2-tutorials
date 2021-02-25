@@ -14,6 +14,8 @@ The source codes of spartan2 are in [spartan2](https://github.com/BGT-M/spartan2
 * [Holoscope](https://github.com/BGT-M/spartan2-tutorials/blob/master/Holoscope.ipynb): based on [HoloScope](https://shenghua-liu.github.io/papers/cikm2017-holoscope.pdf)
 * [EigenPulse](https://github.com/BGT-M/spartan2-tutorials/blob/master/EigenPulse.ipynb)
 * [Summarization](https://github.com/BGT-M/spartan2-tutorials/blob/master/Summarization.ipynb)
+* [FlowScope](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb)
+* [CubeFlow](https://github.com/BGT-M/spartan2-tutorials/blob/master/CubeFlow.ipynb)
 
 **Part 3: Time Series**
 * [Time Series start](https://github.com/BGT-M/spartan2-tutorials/blob/master/timeseries_start.ipynb)
