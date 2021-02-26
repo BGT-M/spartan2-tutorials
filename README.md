@@ -13,7 +13,7 @@ All contents are collected in another repository [spartan-tutorials](https://git
 * [Fraudar](https://github.com/BGT-M/spartan2-tutorials/blob/master/Fraudar_demo.ipynb): a wrapper of [Fraudar](https://bhooi.github.io/projects/fraudar/index.html) algorithm.
 * [Holoscope](https://github.com/BGT-M/spartan2-tutorials/blob/master/Holoscope.ipynb): based on [HoloScope](https://shenghua-liu.github.io/papers/cikm2017-holoscope.pdf)
 * [EigenPulse](https://github.com/BGT-M/spartan2-tutorials/blob/master/EigenPulse.ipynb)
-* [Summarization](https://github.com/BGT-M/spartan2-tutorials/blob/master/Summarization.ipynb)
+* [DPGS](https://github.com/BGT-M/spartan2-tutorials/blob/master/DPGS.ipynb): a summarization method based on the configuration model
 
 **Part 3: Time Series**
 * [Time Series start](https://github.com/BGT-M/spartan2-tutorials/blob/master/timeseries_start.ipynb)
