@@ -1,6 +1,6 @@
 ## Live-tutorials: Table of Contents
 
-All contents are collected in another repository [spartan-tutorials](https://github.com/BGT-M/spartan2-tutorials), you can clone that repository to get all the notebooks and example data to run on your own.
+The source codes of spartan2 are in [spartan2](https://github.com/BGT-M/spartan2), you need to install that packages before running those live tutorials.
 
 **Part 1: Basic**
 * [Quick start](https://github.com/BGT-M/spartan2-tutorials/blob/master/quick_start.ipynb)
@@ -14,6 +14,9 @@ All contents are collected in another repository [spartan-tutorials](https://git
 * [Holoscope](https://github.com/BGT-M/spartan2-tutorials/blob/master/Holoscope.ipynb): based on [HoloScope](https://shenghua-liu.github.io/papers/cikm2017-holoscope.pdf)
 * [EigenPulse](https://github.com/BGT-M/spartan2-tutorials/blob/master/EigenPulse.ipynb)
 * [DPGS](https://github.com/BGT-M/spartan2-tutorials/blob/master/DPGS.ipynb): a summarization method based on the configuration model
+* [FlowScope](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb)
+* [CubeFlow](https://github.com/BGT-M/spartan2-tutorials/blob/master/CubeFlow.ipynb)
+
 
 **Part 3: Time Series**
 * [Time Series start](https://github.com/BGT-M/spartan2-tutorials/blob/master/timeseries_start.ipynb)
@@ -30,3 +33,4 @@ All contents are collected in another repository [spartan-tutorials](https://git
 5. Hooi, Bryan, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, and Christos Faloutsos. "Fraudar: Bounding graph fraud in the face of camouflage." In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 895-904. 2016.
 6. Zhou, Bin, Shenghua Liu, Bryan Hooi, Xueqi Cheng, and Jing Ye. "BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series." In IJCAI, pp. 4433-4439. 2019.
 7. Houquan Zhou, Shenghua Liu, Kyuhan Lee, Kijung Shin, Huawei Shen and Xueqi Cheng. "DPGS: Degree-Preserving Graph Summarization." In SDM 2021.
+
