@@ -1,7 +1,14 @@
 ## Live-tutorials: Table of Contents
 
 The package **spartan** are in [spartan2](https://github.com/BGT-M/spartan2), you need to install that packages before running those live tutorials.
-
+```bash
+   # install spartan using pip
+   pip install spartan2
+```
+```python
+   # import spartan package
+   import spartan as st
+```
 **Part 1: Basic**
 * [Quick start](https://github.com/BGT-M/spartan2-tutorials/blob/master/quick_start.ipynb)
 * [Tensor usage](https://github.com/BGT-M/spartan2-tutorials/blob/master/tensor_usage.ipynb)
