@@ -1,6 +1,6 @@
 ## Live-tutorials: Table of Contents
 
-The source codes of spartan2 are in [spartan2](https://github.com/BGT-M/spartan2), you need to install that packages before running those live tutorials.
+The package **spartan** are in [spartan2](https://github.com/BGT-M/spartan2), you need to install that packages before running those live tutorials.
 
 **Part 1: Basic**
 * [Quick start](https://github.com/BGT-M/spartan2-tutorials/blob/master/quick_start.ipynb)
