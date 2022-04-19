@@ -16,7 +16,7 @@ The package **spartan** are in [spartan2](https://github.com/BGT-M/spartan2), yo
 **Part 2: Big Graphs**
 * [Graph start](https://github.com/BGT-M/spartan2-tutorials/blob/master/graph_start.ipynb)
 * [Eigenspokes](https://github.com/BGT-M/spartan2-tutorials/blob/master/EigenSpokes.ipynb): an implementation of [SpokEn](http://www.cs.cmu.edu/~christos/PUBLICATIONS/pakdd10-eigenspokes.pdf) by truncating the principle sigular vector.
-* [SpecGreedy](): based on [SpecGreedy](https://github.com/wenchieh/specgreedy) which won the best student DM paper award in ECML-PKDD2020.
+* [SpecGreedy](https://github.com/BGT-M/spartan2-tutorials/blob/master/Specgreedy.ipynb): based on [SpecGreedy](https://github.com/wenchieh/specgreedy) which won the best student DM paper award in ECML-PKDD2020.
 * [EagleMine](https://github.com/BGT-M/spartan2-tutorials/blob/master/EagleMine.ipynb)
 * [Fraudar](https://github.com/BGT-M/spartan2-tutorials/blob/master/Fraudar_demo.ipynb): a wrapper of [Fraudar](https://bhooi.github.io/projects/fraudar/index.html) algorithm.
 * [HoloScope](https://github.com/BGT-M/spartan2-tutorials/blob/master/Holoscope.ipynb): based on [HoloScope](https://shenghua-liu.github.io/papers/cikm2017-holoscope.pdf)
